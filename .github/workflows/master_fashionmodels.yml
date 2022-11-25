@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'fashionmodels'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D9B0E4D4B1454BF296BA776E7AEFE5B4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3CCADCC466744183BA36DEED22D0C807 }}
           package: .
