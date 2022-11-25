@@ -1,4 +1,4 @@
-Here I can create A Food Store Which Can Order Different Recipes And Learn Categories Of Food Available. Description: 1.Food is any substance consumed to provide nutritional support and energy to an organism. 2.It can be raw, processed or formulated and is consumed orally by animals for growth, health or pleasure. 3.Food is mainly composed of water, lipids, proteins and carbohydrates.
+Once a designer creates a garment or accessory, he will usually need some way to display the item to the public. This is where fashion modeling comes in. Fashion modeling involves using people to show off a particular type of fashion. This allows the public to see how a particular fashion looks, which can help create public interest.
 
 Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
 
@@ -10,9 +10,9 @@ Industry : Lifestyle
 
 Project Title : Fashion Models
 
-Problem Statement/Opportunity : Every One Good Health Could Depend Upon Quality Of Food Taken.
+Problem Statement/Opportunity : This allows the public to see how a particular fashion looks, which can help create public interest.
 
-Project Description : Best Food Quality Is Important To Us Every One Good Health Could Depend Upon Quality Of Food Taken.
+Project Description : Once a designer creates a garment or accessory, he will usually need some way to display the item to the public.
 
 Primary Azure Technology : Static Web Apps, App Service
 
