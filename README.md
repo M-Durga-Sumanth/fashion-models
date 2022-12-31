@@ -21,7 +21,8 @@ Static Web App URL : https://kind-moss-0d0f95d00.2.azurestaticapps.net/
 App Services URL : https://fashionmodels.azurewebsites.net
 
 ## Demo Video :
-https://user-images.githubusercontent.com/116269075/210135013-c5162352-fe86-4a7e-b2ae-4cea97a4a263.mp4
+https://user-images.githubusercontent.com/116269075/210135044-84ce3982-7313-4e39-b8bd-dd60ecc43a27.mp4
+
 
 
 ## My Website Link: https://kind-moss-0d0f95d00.2.azurestaticapps.net/
@@ -43,4 +44,5 @@ https://user-images.githubusercontent.com/116269075/210135013-c5162352-fe86-4a7e
 
 ## Azure Services Used
 ![Screenshot 2022-11-25 105803](https://user-images.githubusercontent.com/116269075/203907452-707b4fc3-1ad2-4806-a3f5-0ebaa06ac2ce.jpg)
+
 
