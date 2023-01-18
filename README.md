@@ -16,7 +16,7 @@ Project Description : Once a designer creates a garment or accessory, he will us
 
 Primary Azure Technology : Static Web Apps, App Service
 
-Static Web App URL : https://kind-moss-0d0f95d00.2.azurestaticapps.net/
+Static Web App URL : https://kind-hill-044093800.2.azurestaticapps.net
 
 App Services URL : https://fashionmodels.azurewebsites.net
 
