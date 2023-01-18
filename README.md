@@ -22,7 +22,7 @@ App Services URL : https://fashionmodels.azurewebsites.net
 
 
 
-## My Website Link: https://kind-moss-0d0f95d00.2.azurestaticapps.net/
+## My Website Link: https://m-durga-sumanth.github.io/fashion-models/
 
 ## Home 
 
